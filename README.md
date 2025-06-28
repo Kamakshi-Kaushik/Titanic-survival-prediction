@@ -102,3 +102,6 @@ Beginner Data Scientist | Passionate Learner
 - 🔗 [Kaggle Competition Link](https://www.kaggle.com/c/titanic)
 
 - 📁 `submission.csv` is available for leaderboard entry
+- 
+## 📎 Live Notebook on Kaggle
+You can view and run the notebook directly on Kaggle here: [Titanic Survival Prediction](https://www.kaggle.com/code/kamakshi19kaushik/titanic-survival-prediction)
