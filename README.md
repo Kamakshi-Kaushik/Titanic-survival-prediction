@@ -95,4 +95,10 @@ Beginner Data Scientist | Passionate Learner
 ## 📎 Useful Links
 
 - 📄 [Kaggle Competition Page](https://www.kaggle.com/competitions/titanic)
+## 📊 Results
+
+- ✅ **Validation Accuracy:** 82%
+- 📈 **Kaggle Leaderboard Score:** 0.77751  
+- 🔗 [Kaggle Competition Link](https://www.kaggle.com/c/titanic)
+
 - 📁 `submission.csv` is available for leaderboard entry
